@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Rollheiser
+- 👀 I’m interested in learning about the programming area and build plenty projects.
+- 🌱 I’m currently learning Python, afterward I plan to learn C or Javascript
